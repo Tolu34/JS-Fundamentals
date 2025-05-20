@@ -1,1 +1,1 @@
-0-javascript_is_amazing.js
+o-javascript_is_amazing.js
