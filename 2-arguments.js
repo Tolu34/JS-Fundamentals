@@ -1,11 +1,15 @@
 <<<<<<< HEAD
-=======
-const firstLine = 'No argument' ;
-const secondLine = 'Argument found' ;
-const thirdLine = 'Arguments found' ;
 
-console.log(firstLine);
-console.log(secondLine);
-console.log(thirdLine);
+======
+
+if (args.length === 0) {
+  console.log('No argument');
+} else if (args.length === 1) {
+  console.log('Argument found');
+} else {
+  console.log('Arguments found');
+}
+>>>>>>> e3e19ba (Add script to handle argument count)
+
 
 
